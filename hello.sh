@@ -63,7 +63,14 @@ echo -e "\033[37m ${str}\033[0m"    d  ## 白色
 #etc/profile.d/*sh
 #vi ~/.bash_profile
 #vi ~/.bashrc
-#vi ~/bashrc
+#uvi ~/bashrc
+
+
+#cat /etc/issue
+
+#cat /etc/issue.net
+
+#cat /etc/motd
 
 
 
